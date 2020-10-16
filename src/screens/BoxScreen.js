@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     viewStyle1: {
         borderWidth: 3,
         borderColor: 'purple',
-        width: 100
+        width: 100,
         // flex: 5
     },
     viewStyle2: {
